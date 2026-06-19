@@ -3,7 +3,7 @@ my first paragraph.
 
 ## Images
 
-![logo](https://github.com/c0a23040d7/sample/blob/main/nc296643_スプラトゥーン３_ロゴ.png)
+![logo](https://octodex.github.com/images/minion.png)
 
 ## Youtube Video
 
